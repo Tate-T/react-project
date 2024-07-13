@@ -1,12 +1,14 @@
 import Recipe from "../Recipe/Recipe";
 import { nanoid } from "nanoid";
+import style from"./List.module.css";
 
+console.log(style)
 const randomId = nanoid();
 
 const List = ({ recipes }) => {
   let it = 0;
   return (
-    <ul>
+    <ul className={style.decor}>
       {recipes?.map((recipe) => {
         it++;
         return (
