@@ -3,30 +3,35 @@
     "name": "Куряча ніжка Конфі",
     "year": 1988,
     "ingredients": ["курка", "соуси"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRb0JRDh_y2wtk9g0WLKn2UUX1vKMGVVaNA&s",
     "id": 1
   },
   {
     "name": "Картофель фрі",
     "year": 1950,
     "ingredients": ["картопля", "сонячникова олія"],
+    "img": "https://ge.all.biz/img/ge/catalog/25095.jpeg",
     "id": 2
   },
   {
     "name": "Піцца з грибами",
     "year": 1968,
     "ingredients": ["тісто", "гриби"],
+    "img": "https://i0.wp.com/www.splashoftaste.com/wp-content/uploads/2022/08/mushroom-pizza-featured.jpg",
     "id": 3
   },
   {
     "name": "Стейк",
     "year": 1948,
     "ingredients": ["м'ясо", "соуси"],
+    "img": "https://t4.ftcdn.net/jpg/02/82/59/49/360_F_282594902_pW0rUf2QJhZAZqo4DtGOv03tFRtgMze1.jpg",
     "id": 4
   },
   {
     "name": "Паста карбонара",
     "year": 1988,
     "ingredients": ["паста", "сир", "бекон"],
+    "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg?quality=90&resize=440,400",
     "id": 5
   }
 ]

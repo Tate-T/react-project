@@ -12,7 +12,7 @@ const List = ({ recipes }) => {
       {recipes?.map((recipe) => {
         it++;
         return (
-          <Recipe data={recipe} itherator={it} />
+          <Recipe data={recipe} key={it} itherator={it} />
           // <li key={recipe.id}>
           //   Name: {recipe.name}
           //   Year: {recipe.year}
