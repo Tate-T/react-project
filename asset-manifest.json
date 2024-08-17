@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tate-t.github.io/react-recipes-project/static/css/main.2ee0d588.css",
+    "main.js": "/tate-t.github.io/react-recipes-project/static/js/main.6839170d.js",
+    "static/media/dzhungarik.webp": "/tate-t.github.io/react-recipes-project/static/media/dzhungarik.de03f68e18f17184fee2.webp",
+    "static/media/recipes.webp": "/tate-t.github.io/react-recipes-project/static/media/recipes.9af518f68e7cc88ec714.webp",
+    "index.html": "/tate-t.github.io/react-recipes-project/index.html",
+    "main.2ee0d588.css.map": "/tate-t.github.io/react-recipes-project/static/css/main.2ee0d588.css.map",
+    "main.6839170d.js.map": "/tate-t.github.io/react-recipes-project/static/js/main.6839170d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee0d588.css",
+    "static/js/main.6839170d.js"
+  ]
+}
